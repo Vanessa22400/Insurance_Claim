@@ -193,6 +193,7 @@ Key finding:
 
 ## Repository Structure
 
+```
 .
 ├── data
 │ └── insurance.csv
@@ -202,7 +203,7 @@ Key finding:
 │ └── Healthcare_Cost_Dashboard.png
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
