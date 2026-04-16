@@ -149,7 +149,7 @@ The default threshold (0.5) provides the best balance between risk detection and
 
 ## Healthcare Cost Drivers Dashboard
 
-![Healthcare Cost Dashboard](images/Healthcare_Cost_Dashboard.png)
+![Healthcare Cost Dashboard](Images/Healthcare_Cost_Dashboard.png)
 
 **Figure:** Summary dashboard combining cost distribution, smoking impact, BMI effects, risk score behavior and feature importance.
 
