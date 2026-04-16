@@ -143,7 +143,7 @@ Key finding:
 - lowering the threshold does **not improve recall**  
 - but **increases false positives**  
 
-👉 The default threshold (0.5) provides the best balance between risk detection and false alerts.
+The default threshold (0.5) provides the best balance between risk detection and false alerts.
 
 ---
 
